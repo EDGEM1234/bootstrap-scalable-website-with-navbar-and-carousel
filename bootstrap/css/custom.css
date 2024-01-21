@@ -1,0 +1,20 @@
+.fakeimg {
+    height: 200px;
+    background: #aaa;
+  }
+
+  .social {
+      font-size: 2em;
+  }
+
+  .footer{
+      font-size: 1.2em;
+  }
+
+  .header{
+      background-color: rgb(7, 1, 12);
+  }
+
+  div.Footer{
+      background-color: #0a0404;
+  }
